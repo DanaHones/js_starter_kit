@@ -15,14 +15,6 @@
   "author": "Cory House",
   "license": "MIT",
   "dependencies": {
-    "babel-cli": "^6.24.1",
-    "babel-core": "^6.24.1",
-    "babel-loader": "^6.4.1",
-    "babel-preset-latest": "^6.24.1",
-    "babel-register": "^6.24.1",
-    "webpack": "^1.15.0",
-    "webpack-dev-middleware": "^1.10.2",
-    "webpack-hot-middleware": "^2.18.0",
     "whatwg-fetch": "1.0.0"
   },
   "devDependencies": {
